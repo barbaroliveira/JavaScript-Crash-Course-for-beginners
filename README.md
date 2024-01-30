@@ -10,6 +10,18 @@ O objetivo deste projeto é fornecer uma implementação prática do conteúdo a
 
 O projeto inclui exemplos de código, estrutura de pastas básica e recursos que acompanham o curso. A estrutura do repositório é projetada para ser clara e fácil de seguir.
 
+- O que é JavaScript?
+- Que variaveis são utilizadas em JavaScript e quais as diferenças das diferentes variaveis utilizadas?
+- Os tipos são importantes? Que diferentes tipos de dados existem?
+- Output: Concatenação e template strings
+- Manipulação de Strings
+- Arrays
+- Objetos
+- Ciclos(for each, map, filter)
+- Estruturas condicionais
+- OOP
+- Classes
+
 ## Como Usar
 
 1. Clone este repositório em sua máquina local usando o seguinte comando:
